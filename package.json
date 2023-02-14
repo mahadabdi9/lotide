@@ -1,8 +1,8 @@
 {
   "name": "@mahadabdi9/lotide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lotide project with useful function to make your code easier",
-  "main": "assertArraysEqual.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/mahadabdi9/lotide.git"
   },
-  "author": "",
+  "author": "Mahad abdi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mahadabdi9/lotide/issues"
